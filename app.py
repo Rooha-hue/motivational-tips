@@ -14,7 +14,7 @@ import streamlit as st
 from google import genai
 from google.genai import types
 
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "gemini-3.8-flash"
 
 MOODS = [
     "Unmotivated", "Stressed", "Anxious about the future", "Tired / burned out",
