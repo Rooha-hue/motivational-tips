@@ -1,0 +1,6 @@
+[theme]
+base = "light"
+primaryColor = "#7C3AED"             # buttons, active tab, links, sliders
+backgroundColor = "#FFFFFF"          # main page background
+secondaryBackgroundColor = "#F3EEFF" # sidebar and input boxes
+textColor = "#1F1F2E"                # main text
