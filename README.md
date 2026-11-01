@@ -1,4 +1,3 @@
-# motivational-tips
 # 🔥 Daily Motivation
 
 A small Streamlit app that gives you a personalized motivational message,
@@ -31,7 +30,7 @@ or paste the key into the sidebar.
 
 ## Changing the model
 
-Default is `gemini-2.5-flash`. Change it in the sidebar or set `GEMINI_MODEL`.
+Default is `gemini-3.8-flash`. Change it in the sidebar or set `GEMINI_MODEL`.
 Current model names: https://ai.google.dev/gemini-api/docs/models
 
 ## Deploy on Streamlit Community Cloud
